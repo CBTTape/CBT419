@@ -1,0 +1,11 @@
+2023-08-06 03:59:04.809592 - Initialized conversion of CBT419
+2023-08-06 03:59:04.967433 - Received CBT.V505.FILE419.PDS from FILE419.XMI 
+2023-08-06 03:59:04.969867 - Found $$DOC.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/$$DOC
+2023-08-06 03:59:04.971027 - Found $DIGNUS.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/$DIGNUS
+2023-08-06 03:59:04.972046 - Found @FILE419.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/@FILE419
+2023-08-06 03:59:04.973150 - Found @FILE420.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/@FILE420
+2023-08-06 03:59:04.974161 - Found GREP@A.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/GREP@A
+2023-08-06 03:59:04.975093 - Found GREP@C.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/GREP@C
+2023-08-06 03:59:04.975976 - Found WHAT@A.txt (text/plain) in CBT.V505.FILE419.PDS, moved to PDS/WHAT@A
+2023-08-06 03:59:04.976840 - Found WHAT@C.x-c (text/x-c) in CBT.V505.FILE419.PDS, moved to PDS/WHAT@C
+2023-08-06 03:59:04.976964 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
