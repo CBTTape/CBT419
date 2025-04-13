@@ -1,0 +1,9 @@
+2025-04-13 19:31:32.412046 - Received CBT.V508.FILE419.PDS from FILE419.XMI 
+2025-04-13 19:31:32.412906 - Found $$DOC.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/$$DOC
+2025-04-13 19:31:32.413118 - Found $DIGNUS.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/$DIGNUS
+2025-04-13 19:31:32.413215 - Found @FILE419.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/@FILE419
+2025-04-13 19:31:32.413334 - Found @FILE420.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/@FILE420
+2025-04-13 19:31:32.413495 - Found GREP@A.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/GREP@A
+2025-04-13 19:31:32.413596 - Found GREP@C.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/GREP@C
+2025-04-13 19:31:32.413719 - Found WHAT@A.txt (text/plain) in CBT.V508.FILE419.PDS, moved to PDS/WHAT@A
+2025-04-13 19:31:32.413824 - Found WHAT@C.x-c (text/x-c) in CBT.V508.FILE419.PDS, moved to PDS/WHAT@C
